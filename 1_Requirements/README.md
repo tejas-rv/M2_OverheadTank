@@ -12,9 +12,8 @@ Realtime application of this can be used to reduce the Human Interference in tur
 * PORT-B of ATMEGA328 is used for observing the output in LED.
 
 ## SWOT - ANALYSIS
-| STRENGTHS | WEAKNESS 
+| STRENGTHS | WEAKNESS | OPPORTUNITIES | THREATS |
 |:---:|:---:|
-| Low cost | NO GUI |
-| OPPORTUNITIES | THREATS 
+| Low cost | NO GUI | Quick Solution | If no proper separation between AC & DC then circut may burn |
 |:---:|:---:|
-| Quick Solution | If no proper separation between AC & DC then circut may burn |
+
