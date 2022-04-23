@@ -17,3 +17,40 @@ Realtime application of this can be used to reduce the Human Interference in tur
 | Low cost | NO GUI | Quick Solution | If no proper separation between AC & DC then circut may burn |
 
 
+# Detail requirements
+## High Level Requirements:
+
+| ID | Description | Status (Implemented/Future)
+|:---:|:---:|:---:|
+|HLR-1| Water level indication |Implemented|
+|HLR-2| Automatic Motor ON / OFF |Implemented|
+|HLR-3| Automatically turn ON/OFF the motor when specific level is reached |Future|
+
+##  Low level Requirements:
+
+| ID | Description | Status (Implemented/Future)
+|:---:|:---:|:---:|
+|LLR-1| User shall be able to Turn ON/OFF the system |Implemented|
+|LLR-2| User shall be able to see the amount of water present in their tank in LCD |Future|
+
+# 4W&#39;s and 1&#39;H
+
+## Who:
+
+* All the people who are having Overhead tank.
+
+## What:
+
+* To Identify the amount of water present.
+
+## When:
+
+* During the step-In training, this is the final project assessment and development started on 20th of march.
+
+## Where:
+
+* This can be used in all over the globe.
+
+## How:
+
+* users can use this code to easy their work and project.
