@@ -15,3 +15,10 @@
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  LLR-1      | is the user able to power ON/OFF the system | exp i/p | exp o/p | act o/p|Requirement based |
 |  LLR-2      | is the user able to see amount of water via LED|   exp i/p | exp o/p | act o/p|Requirement based  |
+
+# OUTPUT
+## 1
+![image](https://github.com/tejas-rv/M2_OverheadTank/blob/main/4_TestCases/Output-1.png)
+
+## 2
+![image](https://github.com/tejas-rv/M2_OverheadTank/blob/main/4_TestCases/Output-2.png)
