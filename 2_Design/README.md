@@ -7,5 +7,5 @@
 
 ![image](https://github.com/tejas-rv/M2_OverheadTank/blob/main/2_Design/CD.png)
 
-## Flow chart
+## FLOW CHART
 ![image](https://github.com/tejas-rv/M2_OverheadTank/blob/main/2_Design/FC.png)
