@@ -13,7 +13,7 @@ Realtime application of this can be used to reduce the Human Interference in tur
 
 ## SWOT - ANALYSIS
 | STRENGTHS | WEAKNESS | OPPORTUNITIES | THREATS 
-|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 | Low cost | NO GUI | Quick Solution | If no proper separation between AC & DC then circut may burn |
 
 
