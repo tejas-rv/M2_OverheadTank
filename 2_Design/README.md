@@ -1,7 +1,7 @@
 
 ## BLOCK DIAGRAM
 
-![image](https://user-images.githubusercontent.com/86293096/164385451-c0f76634-d7a3-4768-b87c-1a345efc4985.png)
+![image](https://github.com/tejas-rv/M2_OverheadTank/blob/main/2_Design/BD.png)
 
 ## CIRCUIT DIAGRAM
 
