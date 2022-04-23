@@ -17,8 +17,8 @@
 |  LLR-2      | is the user able to see amount of water via LED|   exp i/p | exp o/p | act o/p|Requirement based  |
 
 # OUTPUT
-## 1
+## 1 Tank Not FULL - Motor is ON
 ![image](https://github.com/tejas-rv/M2_OverheadTank/blob/main/4_TestCases/Output-1.png)
 
-## 2
+## 2 Tank FULL - Motor is OFF
 ![image](https://github.com/tejas-rv/M2_OverheadTank/blob/main/4_TestCases/Output-2.png)
